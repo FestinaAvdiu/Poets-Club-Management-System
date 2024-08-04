@@ -57,15 +57,15 @@ Options offered to the user:
 
 ![Example Image 1](https://drive.google.com/uc?export=view&id=1y-Jg9iWkvmUcD46CkFr3TOmeTx9q9lHD)
 
-If first option chosen: 
+If 1st option chosen: 
 
 ![Example Image 2](https://drive.google.com/uc?export=view&id=1HEALozX75CV7Mll5jOmw4EWUaPbxos4F)
 
-If second option chosen: 
+If 2nd option chosen: 
 
 ![Example Image 3](https://drive.google.com/uc?export=view&id=1vb8CfOxyldPkGBukFjxRRpYroLgIwIBo)
 
-Saving the new added member's data (using option 5):
+Saving the newly added member's data (using option 5):
 
 ![Example Image](https://drive.google.com/uc?export=view&id=1SdlxW56SfAv04PGatElsEl266zElFq78)
 
@@ -75,36 +75,22 @@ The updated database:
 ![Example Image](https://drive.google.com/uc?export=view&id=1BwczQG5BX611YMf5CJ6vX_nFAd165-T-)
 
 
-If third option chosen: 
+If 3rd option chosen: 
 
 ![Example Image](https://drive.google.com/uc?export=view&id=1syzz0g_vyJJNxYbxk25BSLQ-0623f3y6)
 
-Member found vs Member not found: 
+Member Found vs Member Not Found: 
 
 ![Example Image](https://drive.google.com/uc?export=view&id=1Ehp-gxmRHc1OnS_OBXAhFp1fJw7Fu5ni)
 
 ![Example Image](https://drive.google.com/uc?export=view&id=1YJYXbGOD84AAtpGnYBrWr-Lb5q4ASmMz) 
 
 
-If fourth option chosen:
+If 4th option chosen:
 
 ![Example Image](https://drive.google.com/uc?export=view&id=1Lt69mGRXLaj34scBVVtYzaypr2JN8-A8)
 ![Example Image](https://drive.google.com/uc?export=view&id=1nXVx8b3mhxcwbg7sldQIo-5EV0wwA4oc)
 
-The updated database with the new role:
+The updated database with the new promotion:
 
 ![Example Image](https://drive.google.com/uc?export=view&id=19NUQCW3vvopx_GNZQwfd0VYrPUCfUdwb)
-
-
-## How to Run the Program
-
-   - Open a terminal or command prompt.
-     
-   - Navigate to the directory containing the source code files.
-     
-   - Run the following command to compile the program:
-     
-     ```sh
-     gcc main.c functions.c -o main
-     ./main
-     ```
