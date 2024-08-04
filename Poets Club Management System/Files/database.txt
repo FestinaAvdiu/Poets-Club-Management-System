@@ -1,0 +1,5 @@
+1		Sarah Brown		sarah34@gmail.com		12		2.70		President
+2		Tom Holland		tom.h0@gmail.com		10		2.00		Advisor
+3		Mark Twain		twain_03@gmail.com		11		2.00		Secretary
+4		Tiara John		tiara.24@gmail.com		12		1.50		Participant
+5		Ellie Coop		ellie_co@gmail.com		10		1.60		Participant
