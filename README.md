@@ -35,11 +35,7 @@ The program provides the following features:
 
 - Display five options to the user:
 
-![Example Image]([https://drive.google.com/file/d/1y-Jg9iWkvmUcD46CkFr3TOmeTx9q9lHD/view?usp=sharing])
-
-
     📜 Print the list of members.
-  
 
     ➕ Add a new club member to the list.
 
@@ -54,6 +50,51 @@ The program provides the following features:
 - Only promote members who have been part of the club for at least 1.5 years and have a “Participant” role.
   
 - Changes are saved to the text file only when option 5 (Save changes) is selected.
+
+## Here’s how the program looks in action:
+
+Options offered to the user:
+
+![Example Image 1](https://drive.google.com/uc?export=view&id=1y-Jg9iWkvmUcD46CkFr3TOmeTx9q9lHD)
+
+If first option chosen: 
+
+![Example Image 2](https://drive.google.com/uc?export=view&id=1HEALozX75CV7Mll5jOmw4EWUaPbxos4F)
+
+If second option chosen: 
+
+![Example Image 3](https://drive.google.com/uc?export=view&id=1vb8CfOxyldPkGBukFjxRRpYroLgIwIBo)
+
+Saving the new added member's data (using option 5):
+
+![Example Image](https://drive.google.com/uc?export=view&id=1SdlxW56SfAv04PGatElsEl266zElFq78)
+
+
+The updated database:
+
+![Example Image](https://drive.google.com/uc?export=view&id=1BwczQG5BX611YMf5CJ6vX_nFAd165-T-)
+
+
+If third option chosen: 
+
+![Example Image](https://drive.google.com/uc?export=view&id=1syzz0g_vyJJNxYbxk25BSLQ-0623f3y6)
+
+Member found vs Member not found: 
+
+![Example Image](https://drive.google.com/uc?export=view&id=1Ehp-gxmRHc1OnS_OBXAhFp1fJw7Fu5ni)
+
+![Example Image](https://drive.google.com/uc?export=view&id=1YJYXbGOD84AAtpGnYBrWr-Lb5q4ASmMz) 
+
+
+If fourth option chosen:
+
+![Example Image](https://drive.google.com/uc?export=view&id=1Lt69mGRXLaj34scBVVtYzaypr2JN8-A8)
+![Example Image](https://drive.google.com/uc?export=view&id=1nXVx8b3mhxcwbg7sldQIo-5EV0wwA4oc)
+
+The updated database with the new role:
+
+![Example Image](https://drive.google.com/uc?export=view&id=19NUQCW3vvopx_GNZQwfd0VYrPUCfUdwb)
+
 
 ## How to Run the Program
 
