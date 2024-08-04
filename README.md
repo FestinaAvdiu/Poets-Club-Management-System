@@ -1,8 +1,10 @@
-# The Poets Club Management System
+# The Poets Club Management System 📚 
 
 ## Description
 
-The Poets Club Management System is a C program designed to manage a database of poetry club members. It allows you to track their performance, promote members based on their participation, and perform various management tasks.
+The Poets Club Management System is a console-based application in C language, designed to manage a database of poetry club members. It allows you to track their performance, promote members based on their participation, and perform various management tasks.
+
+**🎉 Fun Fact:** This was my very first programming project! 
 
 ## Purpose
 
@@ -21,7 +23,7 @@ The project is separated into the following files:
 - **`functions.h`**: Header file that declares functions and includes necessary libraries.
 - **`database.txt`**: A text file used to store member data.
 
-## Features
+## 🌟 Features
 
 The program provides the following features:
 
@@ -33,7 +35,11 @@ The program provides the following features:
 
 - Display five options to the user:
 
+![Example Image]([https://drive.google.com/file/d/1y-Jg9iWkvmUcD46CkFr3TOmeTx9q9lHD/view?usp=sharing])
+
+
     📜 Print the list of members.
+  
 
     ➕ Add a new club member to the list.
 
@@ -47,7 +53,7 @@ The program provides the following features:
   
 - Only promote members who have been part of the club for at least 1.5 years and have a “Participant” role.
   
-- Changes are saved to the text file only when option 5 is selected.
+- Changes are saved to the text file only when option 5 (Save changes) is selected.
 
 ## How to Run the Program
 
