@@ -1,10 +1,10 @@
 # The Poets Club Management System 📚 
 
-## Description
-
 The Poets Club Management System is a console-based application in C language, designed to manage a database of poetry club members. It allows you to track their performance, promote members based on their participation, and perform various management tasks.
 
-**🎉 Fun Fact:** This was my very first programming project! 
+**🎉 Fun Fact:** 
+
+This was my very first programming project! 
 
 ## Purpose
 
